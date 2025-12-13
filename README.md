@@ -1,2 +1,2 @@
-# AI---Churn-Analysis
+# AI Churn-Analysis
 Churn Analysis
